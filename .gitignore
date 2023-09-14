@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+.env
+package-lock.json
+.babelrc
+.eslintignore
+.eslintrc.json
+.sequelizerc
